@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ee4537c1-06f3-4cc3-b4ab-afe315c6aee2" name="Default Changelist" comment="" />
+    <list default="true" id="ee4537c1-06f3-4cc3-b4ab-afe315c6aee2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test/Login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +21,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1YUGn6C7PBbhJhYte9Xv6LCD4W8" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -69,10 +74,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1582992250800">
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog" timestamp="1582995726669">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1582992250800" />
+    <state x="93" y="93" width="1095" height="495" key="DiffContextDialog/0.0.1280.680@0.0.1280.680" timestamp="1582995726669" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1582991330644">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
